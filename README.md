@@ -12,8 +12,10 @@ I plan on updating this repo with the new code for the bot only(not the gui) in 
 
 You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of this old source code. I didnt really change anything in that reguard when I rewrote this with my friend @mabney11.
 
-I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. If you see someone repacking it elsewhere it probably isnt safe..
+#Directions
+They are explained in a readme file in the release zip
 
+I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. If you see someone repacking it elsewhere it probably isnt safe..
 
 #Donate
 Donate via bitcoin or payal for continued development 
