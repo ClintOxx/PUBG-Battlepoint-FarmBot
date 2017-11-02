@@ -11,5 +11,7 @@ You can see how the auto jump/rum/plane jump/laydown functions work in this bot 
 I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. If you see someone repacking it elsewhere it probably isnt safe..
 
 
+#Donate
 Donate via bitcoin or payal for continued development 
-Bitcoin address : 1HdwLpdB47TkSJrr1X5sPHnioH5ssJbdMW
+Bitcoin address : 1HdwLpdB47TkSJrr1X5sPHnioH5ssJbdMW 
+paypal: paypal.me/cleesus
