@@ -4,7 +4,7 @@ A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. Chec
 The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
 
-![ScreenShot]({https://i.imgur.com/g1D9wEJ.png})
+![image](https://{i.imgur.com/g1D9wEJ.png})
 The source code in this repo is older code from a month ago before I rewrote it and added the gui (python +gui isnt fun lol). 
 
 I plan on updating this repo with the new code for the bot only(not the gui) in the near future after a few bug fixes and documenting it.
