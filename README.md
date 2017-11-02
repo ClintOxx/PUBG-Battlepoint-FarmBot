@@ -13,5 +13,6 @@ I plan to keep updating the bot with new functions (like auto fighting afk playe
 
 #Donate
 Donate via bitcoin or payal for continued development 
+
 Bitcoin address : 1HdwLpdB47TkSJrr1X5sPHnioH5ssJbdMW 
 paypal: paypal.me/cleesus
