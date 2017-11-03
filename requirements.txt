@@ -7,5 +7,5 @@ py pip install Pillow
 
 
 
-python superbot.py
+python afkbot1.py
 
