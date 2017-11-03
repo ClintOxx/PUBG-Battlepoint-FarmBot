@@ -1,5 +1,5 @@
 # PUBG-Afk-FarmBot
-A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. Check the releases tab for the precompiled exe
+A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. Check the releases tab for the precompiled exe when I upload later
 
 The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
