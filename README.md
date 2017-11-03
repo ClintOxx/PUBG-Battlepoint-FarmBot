@@ -26,3 +26,6 @@ paypal: paypal.me/cleesus
 
 # Errors
 if you have an error saying an msvcp120.dll  is missing download https://www.microsoft.com/en-au/download/confirmation.aspx?id=30679 or https://fix4dll.com/msvcp120_dll
+
+# pull requests
+Are welcome, if you have something interesting to add then go ahead and ill add it to the new code
