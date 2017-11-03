@@ -12,7 +12,7 @@ I plan on updating this repo with the new code for the bot only(not the gui) in 
 
 You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of this old source code. I didnt really change anything in that reguard when I rewrote this with my friend @mabney11.
 
-# Directions
+# Directions for using source code
 They are explained in a readme file in the release zip.
 
 Open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type python afkbot1.py into cmd and it will run.
