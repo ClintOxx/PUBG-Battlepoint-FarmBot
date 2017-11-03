@@ -14,7 +14,7 @@ The source code in this repo is older code from a month ago before I rewrote it 
 
 I plan on updating this repo with the new code for the bot only(not the gui) in the near future after a few bug fixes and documenting it.
 
-You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of this old source code. I didnt really change anything in that reguard when I rewrote this with my friend @mabney11.
+You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of this old source code. I didnt really change anything in that reguard when I rewrote this with my friend @abneyma(who is also on github).
 
 # Directions for using source code
 They are explained in a readme file in the release zip.
