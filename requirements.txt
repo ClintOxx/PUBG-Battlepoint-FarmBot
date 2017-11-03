@@ -1,0 +1,11 @@
+open up cmd and run this
+py  pip install pyautogui
+
+py pip install psutil
+
+py pip install Pillow
+
+
+
+python superbot.py
+
