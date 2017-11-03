@@ -1,5 +1,9 @@
 # PUBG-Afk-FarmBot
-A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. Check the releases tab for the precompiled exe when I upload later
+A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. 
+
+Check the releases tab for the precompiled gui afkbot exe when I upload later. 
+
+The source is not updated with the gui yet.
 
 The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
@@ -15,7 +19,7 @@ You can see how the auto jump/rum/plane jump/laydown functions work in this bot 
 # Directions for using source code
 They are explained in a readme file in the release zip.
 
-Open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type python afkbot1.py into cmd and it will run.
+Open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkbot1.py" into cmd and it will run.
 
 I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. If you see someone repacking it elsewhere it probably isnt safe..
 
