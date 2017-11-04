@@ -3,7 +3,7 @@ A working AFk battlepoint(bp) farming bot for playerunknown battle grounds.
 
 Check the releases tab for the precompiled gui afkbot exe when I upload later. 
 
-The source is not updated with the gui yet.
+This is fully working even after the september patch that stopped most bots
 
 The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
@@ -11,6 +11,8 @@ The bot is run via an gui and not the command line(cmd) so its easier for the av
 ![image](https://i.imgur.com/g1D9wEJ.png)
 
 The source code in this repo is older code from a month ago before I rewrote it and added the gui (python +gui isnt fun lol). 
+
+The source code is not the one with the gui.
 
 I plan on updating this repo with the new code for the bot only(not the gui) in the near future after a few bug fixes and documenting it.
 
@@ -21,7 +23,11 @@ They are explained in a readme file in the release zip.
 
 Open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkbot1.py" into cmd and it will run.
 
-I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. If you see someone repacking it elsewhere it probably isnt safe..
+# Future
+
+I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. 
+
+If you see someone repacking it elsewhere it probably isnt safe..
 
 # Donate
 Donate via bitcoin or payal for continued development 
