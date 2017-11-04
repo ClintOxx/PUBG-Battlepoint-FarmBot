@@ -1,15 +1,17 @@
 # PUBG-Afk-FarmBot
 A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. 
 
-## Check the releases tab for the precompiled gui afkbot exe in a zip folder.  
+## Check the Releases tab for the precompiled ready to go exe. No coding necessary.   
+Here https://github.com/Clintoxen/PUBG-Afk-FarmBot/releases
 
 This is fully working even after the september patch that stopped most bots
 
-The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
+The new bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
 
 ![image](https://i.imgur.com/g1D9wEJ.png)
 
+## Older Bot Source Code
 The source code in this repo is older code from a month ago before I rewrote it and added the gui (python +gui isnt fun lol). 
 
 The source code is not the one with the gui.
