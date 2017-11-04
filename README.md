@@ -1,7 +1,7 @@
 # PUBG-Afk-FarmBot
 A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. 
 
-Check the releases tab for the precompiled gui afkbot exe when I upload later. 
+Check the releases tab for the precompiled gui afkbot exe in a zip folder.  
 
 This is fully working even after the september patch that stopped most bots
 
@@ -23,6 +23,9 @@ They are explained in a readme file in the release zip.
 
 Open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkbot1.py" into cmd and it will run.
 
+# Directions for GUI Bot
+Just click the exe and wait a few seconds for it to load, pick your screen resolution and hit start!
+
 # Future
 
 I plan to keep updating the bot with new functions (like auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free. 
@@ -41,3 +44,8 @@ if you have an error saying an msvcp120.dll  is missing download https://www.mic
 
 # pull requests
 Are welcome, if you have something interesting to add then go ahead and ill add it to the new code
+
+# credits
+This was made be me and my friend listed above. 
+
+We go by a few different names on gaming forums, theclinton/cleez/cleezy are the main ones for me.
