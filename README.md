@@ -18,13 +18,15 @@ The source code does not contain the gui.
 
 I still need to update the code with a few bug fixes and documenting the functions but I wanted to get this out now before I get busy again.
 
-You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of the source code. I rewrote this with my friend @abneyma(who is also on github) and one other person.
+You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of the source code. 
+
+I rewrote this with my friend @abneyma(who is also on github) and one other person.
 
 # Directions for using source code
 
 In order to run this you need to make a gui or call the run function or the bot class at the end of the code. Also will need to edit the setConfig function.
 
-After that open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkbot1.py" into cmd and it will run.
+After that open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkfarm.py" into cmd and it will run.
 
 Your screen and game resolution has to be 1080p if you use the default config and make sure reshade is off.
 
