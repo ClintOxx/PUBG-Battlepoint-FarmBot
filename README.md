@@ -1,12 +1,11 @@
 # PUBG-Afk-FarmBot
-A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. 
 
 ## Check the Releases tab for the precompiled ready to go exe. No coding necessary.   
 
 [Releases](https://github.com/Clintoxen/PUBG-Afk-FarmBot/releases "GUIBot")
 
 
-This is fully working even after the september patch that stopped most bots
+This is working even after the september patch that stopped most bots.
 
 The new bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
@@ -14,11 +13,9 @@ The new bot is run via an gui and not the command line(cmd) so its easier for th
 ![image](https://i.imgur.com/g1D9wEJ.png)
 
 ## Bot Source Code
-The source code in this repo is the current code in the GUI bot exe. 
+The source code is the current code(not including the tkinter code) in the GUI bot exe. 
 
-The source code does not contain the gui.
-
-I still need to update the code with a few bug fixes and documenting the functions but I wanted to get this out now before I get busy again.
+I still need to document the code, but I wanted to get this out now before I get busy again.
 
 You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of the source code. 
 
@@ -26,21 +23,21 @@ I rewrote this with one other person.
 
 # Directions for using source code
 
-In order to run this you need to make a gui or call the run function or the bot class at the end of the code. Also will need to edit the setConfig function.
+In order to run this you need to make a gui, or call the "bot" class at the end of the code. 
 
-After that open cmd in the folder with the python script(afkbot1.py) make sure the config file is in that folder as well. type "python afkfarm.py" into cmd and it will run.
+You also will need to edit the setConfig function. I already have some working code for that commented out.
 
-Your screen and game resolution has to be 1080p if you use the default config and make sure reshade is off.
+Your screen and game resolution has to be 1080p if you use the default config.
 
 # Directions for GUI Bot
-* Make sure the game isnt open
-* Just click the exe and wait a few seconds for it to load, pick your screen resolution and hit start!
+* Make sure the game isnt open/running
+* Just click the exe and wait a few seconds for it to load, pick your screen resolution and then hit start!
 
 # Future
 
 I plan to keep updating the bot with new functions: 
 
-* auto fighting afk players so you can leave earlier. (I have an idea of how to do it but it will be more long term) if I get some donations to support the huge time investment it would take. Either way the bot remains free.)
+* Auto fighting afk players so you can leave earlier. I have an idea of how to do it but it will be more long term (Only if I get some donations to support the huge time investment it would take. Either way the bot remains free.)
 
 * Selecting  the server from the GUI
 
@@ -57,18 +54,20 @@ paypal: paypal.me/cleesus
 
 # Errors
 
-* If the bot opens and it doesnt click anything make sure your monitor and game is the correct resolution, 
+* If the bot opens and it doesnt click anything make sure your monitor and game is set to the correct resolution. 
 
-* That the game is running in fullscreen windowed mode 
+* Make sure the game is running in fullscreen windowed mode. 
 
-* You are using the correct config
+* MAke sure you are using the correct config(source code).
 
-* Reshade isnt changing your games colors
+* Make sure Reshade isnt changing your games colors.
 
-* You are not starting the bot when the game is open(works for some, causes issues for others)
+* MAke sure you are not starting the bot when the game is open(works for some, causes issues for others)
 
 # Pull requests
-Are welcome, if you have something interesting to add then go ahead and ill test it and add it to the source code.
+Are welcome, if you have something interesting to add then go ahead and ill test it and add it to the source code/bot.
 
 
 [![GitHub Analitycs - PUBG-Afk-FarmBot](http://github-analytics.apphb.com/badges/RepositoryDownloads/109323214.svg)](http://github-analytics.apphb.com/) 
+
+I might close issues soon and redirect you to discord for easier support on my side.
