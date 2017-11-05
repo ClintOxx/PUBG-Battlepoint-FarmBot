@@ -4,8 +4,9 @@
 
 [Releases](https://github.com/Clintoxen/PUBG-Afk-FarmBot/releases "GUIBot")
 
+ver. 1.06 is working. 
 
-This is working even after the september patch that stopped most bots.
+Works even after the september patch that stopped most bots.
 
 The new bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
@@ -13,11 +14,9 @@ The new bot is run via an gui and not the command line(cmd) so its easier for th
 ![image](https://i.imgur.com/g1D9wEJ.png)
 
 ## Bot Source Code
-The source code is the current code(not including the tkinter code) in the GUI bot exe. 
+The source code is the current code(not including the tkinter gui code) in the GUI bot exe. 
 
 I still need to document the code, but I wanted to get this out now before I get busy again.
-
-You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of the source code. 
 
 I rewrote this with one other person.
 
@@ -41,12 +40,12 @@ I plan to keep updating the bot with new functions:
 
 * Selecting  the server from the GUI
 
-* selecting the random jump time range
+* Selecting the random jump time range
 
 If you see someone repacking it elsewhere it probably isnt safe..
 
 # Donate
-Donate via bitcoin or payal for continued development 
+Donate via bitcoin or payal if you want to support continued development or not, thanks. 
 
 Bitcoin address : 1HdwLpdB47TkSJrr1X5sPHnioH5ssJbdMW 
 
