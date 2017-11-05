@@ -1,12 +1,12 @@
 open up cmd and run this:
 
-py pip install pyautogui
+pip install pyautogui
 
-py pip install psutil
+pip install psutil
 
-py pip install Pillow
+pip install Pillow
 
 
-
+AFterwards run:
 python afkfarm.py
 
