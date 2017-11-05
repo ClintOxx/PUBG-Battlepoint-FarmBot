@@ -42,6 +42,8 @@ I plan to keep updating the bot with new functions:
 
 * Selecting the random jump time range
 
+* Makeing hotkey to stop the bot
+
 If you see someone repacking it elsewhere it probably isnt safe..
 
 # Donate
