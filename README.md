@@ -31,7 +31,8 @@ After that open cmd in the folder with the python script(afkbot1.py) make sure t
 Your screen and game resolution has to be 1080p if you use the default config and make sure reshade is off.
 
 # Directions for GUI Bot
-Just click the exe and wait a few seconds for it to load, pick your screen resolution and hit start!
+* Make sure the game isnt open
+* Just click the exe and wait a few seconds for it to load, pick your screen resolution and hit start!
 
 # Future
 
@@ -53,13 +54,16 @@ Bitcoin address : 1HdwLpdB47TkSJrr1X5sPHnioH5ssJbdMW
 paypal: paypal.me/cleesus
 
 # Errors
-if you have an error saying an msvcp120.dll  is missing download https://www.microsoft.com/en-au/download/confirmation.aspx?id=30679 or https://fix4dll.com/msvcp120_dll
 
 * If the bot opens and it doesnt click anything make sure your monitor and game is the correct resolution, 
 
 * That the game is running in fullscreen windowed mode 
 
 * You are using the correct config
+
+* Reshade isnt changing your games colors
+
+* You are not starting the bot when the game is open(works for some, causes issues for others)
 
 # Pull requests
 Are welcome, if you have something interesting to add then go ahead and ill test it and add it to the source code.
