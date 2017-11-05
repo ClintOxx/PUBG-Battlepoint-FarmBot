@@ -65,4 +65,4 @@ if you have an error saying an msvcp120.dll  is missing download https://www.mic
 Are welcome, if you have something interesting to add then go ahead and ill test it and add it to the source code.
 
 
-
+[![GitHub Analitycs - PUBG-Afk-FarmBot](http://github-analytics.apphb.com/badges/RepositoryDownloads/109323214.svg)](http://github-analytics.apphb.com/) 
