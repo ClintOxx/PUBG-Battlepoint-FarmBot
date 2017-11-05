@@ -20,7 +20,7 @@ I still need to update the code with a few bug fixes and documenting the functio
 
 You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of the source code. 
 
-I rewrote this with my friend @abneyma(who is also on github) and one other person.
+I rewrote this with one other person.
 
 # Directions for using source code
 
