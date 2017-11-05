@@ -2,7 +2,9 @@
 A working AFk battlepoint(bp) farming bot for playerunknown battle grounds. 
 
 ## Check the Releases tab for the precompiled ready to go exe. No coding necessary.   
-Here https://github.com/Clintoxen/PUBG-Afk-FarmBot/releases
+
+[Releases](https://github.com/Clintoxen/PUBG-Afk-FarmBot/releases "GUIBot")
+
 
 This is fully working even after the september patch that stopped most bots
 
