@@ -85,8 +85,8 @@
      "y": 494
    },
    "exit_to_lobby":{
-     "x": 861,
-     "y": 558
+     "x": 838,
+     "y": 570
    },
    "error_position":{
      "x": 960,
@@ -101,8 +101,8 @@
      "y": 558
    },
    "exit_button_position":{
-     "x": 1859,
-     "y": 33
+     "x": 849,
+     "y": 560
    },
    "reconnect_button_position":{
      "x":970,
