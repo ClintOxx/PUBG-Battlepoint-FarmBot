@@ -4,11 +4,11 @@
 
 [Releases](https://github.com/Clintoxen/PUBG-Afk-FarmBot/releases "GUIBot")
 
-ver. 1.06 is working. 
+ver. 1.07+ is working. 
 
 Works even after the september patch that stopped most bots.
 
-The new bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand. 
+The bot is run via a gui and not the command line(cmd) so its easier for the average person to use and understand. 
 
 
 ![image](https://i.imgur.com/g1D9wEJ.png)
