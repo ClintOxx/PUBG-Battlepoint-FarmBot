@@ -9,11 +9,11 @@ The bot is run via an gui and not the command line(cmd) so its easier for the av
 
 # Working status
 
-Ver. 1.07+ works even after the update in September that disabled most bots.
+Works even after the update in September that disabled most bots.
 
 
 # Releases, and getting support
-Tech support and new releases will be handled through AFk-Bot Discord located here:
+Support and new releases will be handled through AFk-Bot Discord located here:
 
 [Discord Link](https://discord.gg/5CEJVJk)
 
