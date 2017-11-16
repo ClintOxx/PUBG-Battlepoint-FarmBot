@@ -3,7 +3,7 @@ Bot for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
 The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand.
 
-![alt text](https://i.imgur.com/J2ulbls.png "Screenshot")
+![alt text](https://i.imgur.com/we2uSYp.png "Screenshot")
 
 
 
