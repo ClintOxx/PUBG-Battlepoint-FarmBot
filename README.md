@@ -3,7 +3,7 @@ Bot for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
 The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand.
 
-![alt text](https://i.imgur.com/we2uSYp.png "Screenshot")
+![alt text](https://i.imgur.com/YzjT0pM.png "Screenshot")
 
 
 
@@ -20,24 +20,6 @@ Support and new releases will be handled through AFk-Bot Discord located here:
 
 It is easier and faster for me to respond via discord and keep everyone updated.
 
-# Source Code
-
-The source code is current and the version running inside the bot. GUI code is not included.
-
-The config file is for 1080p
-
-
-I still need to document it so its easier to understand. Pull requests for this is welcome.
-
-You can see how the auto jump/rum/plane jump/laydown functions work in this bot from the bottom of the source code.
-
-# Directions for using Source code
-
-You will need to call the bot class or the run function to get it to work. Other wise make an GUI and use the source that way.
-
-You will need to edit the getConfig() function but I have some usable code commented out above the function.
-
-Open cmd in the folder with the pscript, type "python afkfarm.py" into cmd and it will run.
 
 # Directions for GUI Bot
 
