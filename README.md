@@ -12,15 +12,15 @@ Works even after the update in September that disabled most bots.
 
 
 # Releases, and getting support
-Support and new releases will be handled through AFk-Bot Discord located here:
-
-[Discord Link](https://discord.gg/5CEJVJk)
-
-[Direct download](https://sabercathost.com/9h2d/PUBG_Farmer_1.20.zip)
+Support and new releases/updates will be handled through AFk-Bot Discord located here:
 
 You can just join and get the download and leave if you want! Stick around if you want updates and help. 
 
-Added the direct download so you dont have to sign up. Gonna test this out
+[Discord Link](https://discord.gg/5CEJVJk)
+
+If you rather not here is the download link:
+[Direct download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
+ 
 
 It is easier and faster for me to respond via discord and keep everyone updated.
 
