@@ -17,6 +17,7 @@ Support and new releases will be handled through AFk-Bot Discord located here:
 
 [Discord Link](https://discord.gg/5CEJVJk)
 
+You can just join and get the download and leave if you want! Stick around if you want updates and help. 
 
 It is easier and faster for me to respond via discord and keep everyone updated.
 
