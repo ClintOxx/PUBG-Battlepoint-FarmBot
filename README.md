@@ -6,7 +6,6 @@ The bot is run via an gui and not the command line(cmd) so its easier for the av
 ![alt text](https://i.imgur.com/YzjT0pM.png "Screenshot")
 
 
-
 # Working status
 
 Works even after the update in September that disabled most bots.
@@ -21,6 +20,16 @@ You can just join and get the download and leave if you want! Stick around if yo
 
 It is easier and faster for me to respond via discord and keep everyone updated.
 
+# Donate
+
+If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free.
+
+You do not need an paypal account to use this:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNGQ3W2L2MVDJ)
+
+Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
+
 
 # Directions for GUI Bot
 
@@ -29,6 +38,7 @@ It is easier and faster for me to respond via discord and keep everyone updated.
 * Pick your screen resolution and hit start!
 
 * Close the game before you start if its already open.
+
 
 # Future
 
@@ -44,23 +54,6 @@ I plan to keep updating the bot with new functions like:
 
 If you see someone repacking it elsewhere it probably isnt safe..
 
-# Donate
-
-If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free.
-
-You do not need an paypal account to use this:
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="RNGQ3W2L2MVDJ">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-
-
-Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
-
-paypal: paypal.me/cleesus
 
 # Errors
 
