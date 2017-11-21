@@ -16,7 +16,11 @@ Support and new releases will be handled through AFk-Bot Discord located here:
 
 [Discord Link](https://discord.gg/5CEJVJk)
 
+[Direct download](https://sabercathost.com/9h2d/PUBG_Farmer_1.20.zip)
+
 You can just join and get the download and leave if you want! Stick around if you want updates and help. 
+
+Added the direct download so you dont have to sign up. Gonna test this out
 
 It is easier and faster for me to respond via discord and keep everyone updated.
 
