@@ -34,7 +34,7 @@ You do not need an paypal account to use this:
 
 Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
 
-
+[![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 # Directions for GUI Bot
 
 * Just click the exe and wait a few seconds for it to load 
