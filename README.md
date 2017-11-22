@@ -21,12 +21,13 @@ You can join and stick around if you want updates and help.
 
 [Discord Link](https://discord.gg/5CEJVJk)
  
-
 It is easier and faster for me to respond via discord and keep everyone updated.
+
+[![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
 # Donate
 
-If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free for [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}) users
+If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free.  
 
 You do not need an paypal account to use this:
 
@@ -34,7 +35,7 @@ You do not need an paypal account to use this:
 
 Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
 
-[![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
+
 # Directions for GUI Bot
 
 * Just click the exe and wait a few seconds for it to load 
