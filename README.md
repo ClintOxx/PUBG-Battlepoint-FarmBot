@@ -17,9 +17,7 @@ ver. 1.30 Download: [Download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zi
 
 Support and new releases/updates will be handled through AFk-Bot Discord located here:
 
-You can join and stick around if you want updates and help. 
-
-[Discord Link](https://discord.gg/5CEJVJk)
+You can join and stick around if you want updates and help. [Discord Link](https://discord.gg/5CEJVJk)
  
 It is easier and faster for me to respond via discord and keep everyone updated.
 
