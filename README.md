@@ -15,9 +15,9 @@ Works even after the update in September that disabled most bots.
 
 ver. 1.30 Download: [Download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
 
-Support and new releases/updates will be handled through AFk-Bot Discord located here:
+Support and new releases/updates will be handled through AFk-Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
-You can join and stick around if you want updates and help. [Discord Link](https://discord.gg/5CEJVJk)
+You stick around if you want updates and help. 
  
 
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
