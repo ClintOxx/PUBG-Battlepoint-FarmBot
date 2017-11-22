@@ -42,7 +42,7 @@ Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
 * Close the game before you start if its already open.
 
 
-# Future
+# Future plans
 
 I plan to keep updating the bot with new functions like:
 
