@@ -11,22 +11,22 @@ The bot is run via an gui and not the command line(cmd) so its easier for the av
 Works even after the update in September that disabled most bots.
 
 
-# Releases, and getting support
+# Downloads and getting support
+
+ver. 1.30 Download: [Download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
+
 Support and new releases/updates will be handled through AFk-Bot Discord located here:
 
-You can just join and get the download and leave if you want! Stick around if you want updates and help. 
+You can join and stick around if you want updates and help. 
 
 [Discord Link](https://discord.gg/5CEJVJk)
-
-If you rather not here is the download link:
-[Direct download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
  
 
 It is easier and faster for me to respond via discord and keep everyone updated.
 
 # Donate
 
-If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free.
+If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free for [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}) users
 
 You do not need an paypal account to use this:
 
