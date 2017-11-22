@@ -19,15 +19,14 @@ Support and new releases/updates will be handled through AFk-Bot Discord located
 
 You can join and stick around if you want updates and help. [Discord Link](https://discord.gg/5CEJVJk)
  
-It is easier and faster for me to respond via discord and keep everyone updated.
 
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
 # Donate
 
-If I get some donations to support the huge time investment it would take, I will definitely work on the features above. Either way the bot remains free.  
+If I get some donations to support the huge time investment it would take(time = money), I will definitely work on the future features below. Either way the bot remains free.  
 
-You do not need an paypal account to use this:
+You do not need an paypal account to donate:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNGQ3W2L2MVDJ)
 
@@ -73,10 +72,5 @@ if the bot is not doing anything try:
 if you need more assistance ping me in the discord [Discord Link](https://discord.gg/5CEJVJk)
 
 
-
-
-
 # Pull requests
 Are welcome, if you have something interesting to add then go ahead and ill test it and add it to the source code/bot.
-
-
