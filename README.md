@@ -8,18 +8,16 @@ The bot is run via an gui and not the command line(cmd) so its easier for the av
 
 # Working status
 
-Works even after the update in September that disabled most bots.
+Latest build is working.
 
 
 # Downloads and getting support
 
 ver. 1.30 Download: [Download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
 
-Support and new releases/updates will be handled through AFk-Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
+Support and updates will be handled through AFk-Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
-You stick around if you want updates and help. 
  
-
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
 # Donate
