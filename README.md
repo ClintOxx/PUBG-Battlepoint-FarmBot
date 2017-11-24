@@ -1,8 +1,6 @@
 # AfK-Farm-Bot
 Bot for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
-The bot is run via an gui and not the command line(cmd) so its easier for the average person to use and understand.
-
 ![alt text](https://i.imgur.com/YzjT0pM.png "Screenshot")
 
 
@@ -10,8 +8,13 @@ The bot is run via an gui and not the command line(cmd) so its easier for the av
 
 Latest build is working.
 
+# Features
+* Auto jump from plane at random time
+* Runs for random amount of time
+* Lays down at the end of running
+* Leaves match and starts a new one
 
-# Downloads and getting support
+# Download/Support
 
 ver. 1.30 Download: [Download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
 
