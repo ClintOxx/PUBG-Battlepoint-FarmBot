@@ -16,7 +16,7 @@ Latest build is working.
 
 # Download/Support
 
-ver. 1.30 Download: [Download](https://sabercathost.com/9h35/PUBG_Farmer_1.30.zip)
+ver. 1.31 Download: [Download](https://sabercathost.com/55hv/PUBG_Farmer_1.31.zip)
 
 Support and updates will be handled through AFk-Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
