@@ -18,7 +18,7 @@ Latest build is working.
 * Auto jump from plane at random time
 * Runs for random amount of time
 * Lays down at the end of running
-* Leaves match and starts a new one
+* Leaves match a few minutes after it starts and sfinids a new one
 
  
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
