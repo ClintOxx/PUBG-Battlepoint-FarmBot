@@ -34,6 +34,23 @@ You do not need an paypal account to donate:
 Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
 
 
+# Errors
+
+if the bot is not doing anything try:
+
+* Making sure reshade or any other color changers is turned off
+
+* Making sure your screen and game resolution matches the resolution you selected
+
+* Making sure you are running the game in fullscreen windowed
+
+* if its crashing, make sure to close the game before starting the bot, the bot will open the game for you!
+
+* TURN OFF WALLPAPER ENGINE:
+it conflicts with this bot and will cause it to not work correctly
+
+if you need more assistance ping me in the discord [Discord Link](https://discord.gg/5CEJVJk)
+
 # Directions for GUI Bot
 
 * Just click the exe and wait a few seconds for it to load 
@@ -57,20 +74,6 @@ I plan to keep updating the bot with new functions like:
 
 If you see someone repacking it elsewhere it probably isnt safe..
 
-
-# Errors
-
-if the bot is not doing anything try:
-
-* Making sure reshade or any other color changers is turned off
-
-* Making sure your screen and game resolution matches the resolution you selected
-
-* Making sure you are running the game in fullscreen windowed
-
-* if its crashing, make sure to close the game before starting the bot, the bot will open the game for you!
-
-if you need more assistance ping me in the discord [Discord Link](https://discord.gg/5CEJVJk)
 
 
 # Pull requests
