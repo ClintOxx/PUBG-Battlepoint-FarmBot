@@ -6,7 +6,7 @@ Bot for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 # Download/Support
 
 ## ver. 1.35 Download: [Download](https://sabercathost.com/9hqI/PUBG_Farmer_1.36.zip) 
-(Faster download link: [Download](https://mega.nz/#!xvBR2JCL!xhWBzRkKDEYD3qtEICUuOhl7WOZ2ls7l6QmmLNs2rdc)  )
+
 
 Support and updates will be handled through AFk-Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
@@ -25,7 +25,7 @@ Latest build is working.
 
 # Donate
 
-If I get some donations to support the huge time investment it would take(time = money), I will definitely work on the future features below. Either way the bot remains free.  
+If you end up making some money of the boxes you farm, feel free to return the favor and donate 
 
 You do not need an paypal account to donate:
 
