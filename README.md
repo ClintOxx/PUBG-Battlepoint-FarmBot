@@ -5,7 +5,7 @@ Bot for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
 # Download/Support
 
-## ver. 1.35 Download: [Download](https://sabercathost.com/9hqF/PUBG_Farmer_1.35.zip) 
+## ver. 1.35 Download: [Download](https://sabercathost.com/9hqI/PUBG_Farmer_1.36.zip) 
 (Faster download link: [Download](https://mega.nz/#!xvBR2JCL!xhWBzRkKDEYD3qtEICUuOhl7WOZ2ls7l6QmmLNs2rdc)  )
 
 Support and updates will be handled through AFk-Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
