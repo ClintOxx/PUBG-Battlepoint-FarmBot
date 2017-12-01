@@ -20,6 +20,7 @@ Latest build is working.
 * Lays down at the end of running
 * Leaves match a few minutes after it starts and sfinids a new one
 
+### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon
  
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
