@@ -33,6 +33,8 @@ Latest build is working.
 
 * Close the game before you start if its already open.
 
+* Make sure PUBG is in full screen windowed
+
 
 # Errors
 
