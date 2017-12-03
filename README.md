@@ -20,7 +20,7 @@ Latest build is working.
 * Lays down at the end of running
 * Anti Drown safety
 * Leaves match a few minutes after it starts ands finds a new match
-* Around 6k per 8 hours without you having to do anything
+* Around 6k per 8 hours without you having to do anything ( 42k bp a week @ 8 hours a day, all the crates + sell them on steam)
 
 ### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon
  
