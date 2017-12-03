@@ -1,7 +1,7 @@
 # AfK-Farm-Bot
 Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
-![alt text](https://i.imgur.com/YzjT0pM.png "Screenshot")
+![alt text](https://i.imgur.com/7gAKF2m.gifv "Screenshot")
 
 # Downloads
 
