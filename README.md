@@ -24,15 +24,14 @@ Latest build is working.
  
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
-# Donate
 
-If you end up making some money of the boxes you farm, feel free to return the favor and donate 
+# Directions for Farmer Bot
 
-You do not need an paypal account to donate:
+* Just click the exe and wait a few seconds for it to load 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNGQ3W2L2MVDJ)
+* Pick your screen resolution and hit start!
 
-Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
+* Close the game before you start if its already open.
 
 
 # Errors
@@ -52,15 +51,18 @@ it conflicts with this bot and will cause it to not work correctly
 
 ### Make sure you dont have any programs running in the background that take the focus of windows away from PUBG. Otherwise the bot will launch the game and not do anything. If you have this issue try alt + tabbing to see if the bot works correctly once pubg is the main window again
 
-if you need more assistance ping me in the discord [Discord Link](https://discord.gg/5CEJVJk)
 
-# Directions for GUI Bot
+# Donate
 
-* Just click the exe and wait a few seconds for it to load 
+If you end up making some money of the boxes you farm, feel free to return the favor and donate 
 
-* Pick your screen resolution and hit start!
+You do not need an paypal account to donate:
 
-* Close the game before you start if its already open.
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNGQ3W2L2MVDJ)
+
+Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
+
+
 
 
 # Future plans
