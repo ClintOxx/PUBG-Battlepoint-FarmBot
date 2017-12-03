@@ -50,6 +50,8 @@ if the bot is not doing anything try:
 * TURN OFF WALLPAPER ENGINE:
 it conflicts with this bot and will cause it to not work correctly
 
+## Make sure you dont have any programs running in the background that take the focus of windows away from PUBG. Otherwise the bot will launch the game and not do anything. If you have this issue try alt + tabbing to see if the bot works correctly once pubg is the main window again
+
 if you need more assistance ping me in the discord [Discord Link](https://discord.gg/5CEJVJk)
 
 # Directions for GUI Bot
