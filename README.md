@@ -18,7 +18,9 @@ Latest build is working.
 * Auto jump from plane at random time
 * Runs for random amount of time
 * Lays down at the end of running
-* Leaves match a few minutes after it starts and sfinids a new one
+* Anti Drown safety
+* Leaves match a few minutes after it starts ands finds a new match
+* Around 6k per 8 hours without you having to do anything
 
 ### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon
  
