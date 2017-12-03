@@ -81,7 +81,3 @@ I plan to keep updating the bot with new functions like:
 
 If you see someone repacking it elsewhere it probably isnt safe..
 
-
-
-# Pull requests
-Are welcome, if you have something interesting to add then go ahead and ill test it and add it to the source code/bot.
