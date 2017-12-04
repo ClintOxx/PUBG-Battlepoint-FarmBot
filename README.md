@@ -3,16 +3,12 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 ![alt text](https://i.imgur.com/7gAKF2m.gif "Screenshot")
 
-# Downloads
 
-## ver. 1.38: [Download](https://sabercathost.com/9hFI/PUBG_Farmer_1.38.zip) 
+# Ver. 1.38: [Download](https://sabercathost.com/9hFI/PUBG_Farmer_1.38.zip) 
 
 
-Support and updates will be handled through the pubg AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
+Support and updates will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
-# Working status
-
-Latest build is working.
 
 # Features
 * Auto jump from plane at random time
@@ -22,7 +18,7 @@ Latest build is working.
 * Leaves match a few minutes after it starts ands finds a new match
 * Around 6k per 8 hours without you having to do anything ( 42k bp a week @ 8 hours a day, all the crates + sell them on steam)
 
-### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon
+### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon  in decemember
  
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
@@ -65,7 +61,7 @@ You do not need an paypal account to donate:
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNGQ3W2L2MVDJ)
 
 Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
-
+ETH: 0x63e41bd08392d69ef698c86af2f83e4e1fcf55a5
 
 
 
