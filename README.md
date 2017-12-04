@@ -3,6 +3,10 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 ![alt text](https://i.imgur.com/7gAKF2m.gif "Screenshot")
 
+Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ypqNNqb01Ng/0.jpg)](http://www.youtube.com/watch?v=ypqNNqb01Ng "Video Title")
+
 
 # Ver. 1.38: [Download](https://sabercathost.com/9hFI/PUBG_Farmer_1.38.zip) 
 
@@ -17,6 +21,7 @@ Support and updates will be handled through the PUBG AFk Bot Discord located her
 * Anti Drown safety
 * Leaves match a few minutes after it starts ands finds a new match
 * Around 6k per 8 hours without you having to do anything ( 42k bp a week @ 8 hours a day, all the crates + sell them on steam)
+* Safe, no has been banned for AFK farming
 
 ### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon  in decemember
  
