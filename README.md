@@ -27,9 +27,11 @@ Video of the bot working
 * Safe, no has been banned for AFK farming
 
 ### Dont miss your chance to afk farm loot crates(boxes) before they disappear when PUBG launches out of beta soon!
- 
-[![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
+
+Video of the bot working:
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ypqNNqb01Ng/0.jpg)](http://www.youtube.com/watch?v=ypqNNqb01Ng "Video Title")
 
 # Directions for Farmer Bot
 
@@ -65,3 +67,5 @@ I plan to keep updating the bot with theses functions:
 * Selecting the random jump time 
 
 * Making the bot not freeze up as much while running
+
+[![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
