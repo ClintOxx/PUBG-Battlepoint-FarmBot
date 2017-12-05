@@ -10,7 +10,7 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 # Downloads & Support
 
-will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
+### Both will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
 
 # Features
