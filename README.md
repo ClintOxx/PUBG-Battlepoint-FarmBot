@@ -23,7 +23,7 @@ You can stick around as long as you want!
 * Around 6k per 8 hours without you having to do anything ( 42k bp a week @ 8 hours a day, all the crates + sell them on steam)
 * Safe, no has been banned for AFK farming
 
-### Dont miss your chance to afk farmloot crates before the free ones disappear after the game launches soon  in decemember
+### Dont miss your chance to afk farm loot crates(boxes) before they disappear when the game launches in decemember!
  
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
@@ -38,18 +38,13 @@ You can stick around as long as you want!
 
 * Pick your screen resolution and hit start!
 
-
-# Errors
+If you have any errors/problems:
 
 Check the Readme file included in the download or check the #faq-and-troubleshooting channel in the discord
 
 # Donate
 
-If you end up making some money of the boxes you farm, feel free to return the favor and donate to support development
-
-You do not need an paypal account to donate:
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RNGQ3W2L2MVDJ)
+If you end up making some money off of the boxes you farm, feel free to return the favor and donate to support development
 
 Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
 
