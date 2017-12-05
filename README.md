@@ -40,21 +40,7 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 # Errors
 
-if the bot is not doing anything try:
-
-* Making sure reshade or any other color changers is turned off
-
-* Making sure your screen and game resolution matches the resolution you selected
-
-* Making sure you are running the game in fullscreen windowed
-
-* if its crashing, make sure to close the game before starting the bot, the bot will open the game for you!
-
-* TURN OFF WALLPAPER ENGINE:
-it conflicts with this bot and will cause it to not work correctly
-
-### Make sure you dont have any programs running in the background that take the focus of windows away from PUBG. Otherwise the bot will launch the game and not do anything. If you have this issue try alt + tabbing to see if the bot works correctly once pubg is the main window again
-
+Check the Readme file included in the download or check the #faq-and-troubleshooting channel in the discord
 
 # Donate
 
