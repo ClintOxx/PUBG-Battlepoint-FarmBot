@@ -23,7 +23,7 @@ You can stick around as long as you want!
 * Around 6k per 8 hours without you having to do anything ( 42k bp a week @ 8 hours a day, all the crates + sell them on steam)
 * Safe, no has been banned for AFK farming
 
-### Dont miss your chance to afk farm loot crates(boxes) before they disappear when the game launches in decemember!
+### Dont miss your chance to afk farm loot crates(boxes) before they disappear when PUBG launches out of beta soon!
  
 [![HitCount](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot}.svg)](http://hits.dwyl.io/{clintoxen}/{PUBG-Afk-FarmBot})
 
@@ -49,7 +49,6 @@ If you end up making some money off of the boxes you farm, feel free to return t
 Bitcoin address : 16mCfoqBuvymgVVktCAPp1W6HNL3zoMiFq
 
 ETH: 0x63e41bd08392d69ef698c86af2f83e4e1fcf55a5
-
 
 
 # Future plans
