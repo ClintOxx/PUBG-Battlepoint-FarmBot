@@ -3,15 +3,16 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 ![alt text](https://i.imgur.com/7gAKF2m.gif "Screenshot")
 
-### Video
+### Video of the bot working
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ypqNNqb01Ng/0.jpg)](http://www.youtube.com/watch?v=ypqNNqb01Ng "Video Title")
 
 
 # Downloads & Support
 
-### Both will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
+### Downloads & Support will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
+You can stick around as long as you want!
 
 # Features
 * Auto jump from plane at random time
@@ -29,13 +30,13 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 # Directions for Farmer Bot
 
+* Close PUBG if you have it open before you start.
+
+* Make sure PUBG is in full screen windowed
+
 * Just click the exe and wait a few seconds for it to load 
 
 * Pick your screen resolution and hit start!
-
-* Close the game before you start if its already open.
-
-* Make sure PUBG is in full screen windowed
 
 
 # Errors
@@ -44,7 +45,7 @@ Check the Readme file included in the download or check the #faq-and-troubleshoo
 
 # Donate
 
-If you end up making some money of the boxes you farm, feel free to return the favor and donate 
+If you end up making some money of the boxes you farm, feel free to return the favor and donate to support development
 
 You do not need an paypal account to donate:
 
@@ -58,15 +59,12 @@ ETH: 0x63e41bd08392d69ef698c86af2f83e4e1fcf55a5
 
 # Future plans
 
-I plan to keep updating the bot with new functions like:
+I plan to keep updating the bot with theses functions:
 
-* Auto fighting afk players so you can leave earlier(I have an idea of how to do it but it will be more long term) 
+* Auto fighting afk players so you can leave earlier(long term) 
 
 * Selecting the server
 
 * Selecting the random jump time 
 
-* Getting the quit button to work again(lol I swear it used to work)
-
-If you see someone repacking it elsewhere it probably isnt safe..
-
+* Making the bot not freeze up as much while running
