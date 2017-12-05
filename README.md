@@ -8,10 +8,9 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ypqNNqb01Ng/0.jpg)](http://www.youtube.com/watch?v=ypqNNqb01Ng "Video Title")
 
 
-# Ver. 1.40: [Download](https://sabercathost.com/9hRl/PUBG_Farmer_1.40.zip) 
-* fixed the 1440p config
+# Downloads & Support
 
-Support and updates will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
+will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/5CEJVJk)
 
 
 # Features
