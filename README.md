@@ -2,7 +2,7 @@
 Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
 
-# The new 1.0 update for PUBG has a few changes that breaks the bot, until I update it, it will no longer be working! I disabled the discord link until then.
+# The new 1.0 update for PUBG has a few changes that breaks the bot until I update it, it will no longer be working! I disabled the discord link until then.
 
 ![alt text](https://i.imgur.com/7gAKF2m.gif "Screenshot")
 
