@@ -2,7 +2,9 @@
 
 install python 3.6 and make sure you check the box to install pip to envir variables
 
-open up cmd and run this:
+guide: https://matthewhorne.me/how-to-install-python-and-pip-on-windows-10/
+
+once python is installed, open up cmd(or powershell) and run this:
 
 pip install pyautogui
 
