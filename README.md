@@ -8,7 +8,7 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 # Downloads & Support
 
-### Downloading the bot & Support will be handled through the PUBG AFk Bot Discord located here: [Discord Link]()
+### Support will be handled through the PUBG AFk Bot Discord located here: [Discord Link]()
 
 You can stick around as long as you want!
 
@@ -22,12 +22,7 @@ You can stick around as long as you want!
 * Around 6k per 8 hours without you having to do anything ( 42k bp a week @ 8 hours a day, all the crates + sell them on steam)
 * Safe, no has been banned for AFK farming
 
-### Dont miss your chance to afk farm loot crates(boxes) before they disappear when PUBG launches out of beta soon!
 
-
-Video of the bot working:
-
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ypqNNqb01Ng/0.jpg)](http://www.youtube.com/watch?v=ypqNNqb01Ng "Video Title")
 
 # Directions for Farmer Bot
 
