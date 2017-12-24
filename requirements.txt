@@ -1,5 +1,7 @@
 # This is for source code only
 
+install python 3.6 and make sure you check the box to install pip to envir variables
+
 open up cmd and run this:
 
 pip install pyautogui
@@ -8,11 +10,12 @@ pip install psutil
 
 pip install Pillow
 
+pip install pyqt5
+
+
 
 AFterwards run:
-python afkfarm.py
+python botgui.py
 
-You will need to make some way to call the run function in order to get this working without an gui
 
-like run() at the end of the code
 
