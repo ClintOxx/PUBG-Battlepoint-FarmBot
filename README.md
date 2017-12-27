@@ -30,13 +30,13 @@ You can stick around as long as you want!
 
 * Make sure PUBG is in full screen windowed
 
-* Just click the exe and wait a few seconds for it to load 
+* run botgui.py (by double clicking it or opening cmd and runnin gpyhton botgui.py)
 
 * Pick your screen resolution and hit start!
 
 If you have any errors/problems:
 
-Check the Readme file included in the download or check the #faq-and-troubleshooting channel in the discord
+Check the faq file included in the download or check the #faq-and-troubleshooting channel in the discord
 
 # Donate
 
