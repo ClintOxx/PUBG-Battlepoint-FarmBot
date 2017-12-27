@@ -1,0 +1,657 @@
+{
+  "1440":{
+    "color_tolerance": 15,
+    "colors":{
+      "dark_play_color":{
+        "r": 255,
+        "g": 199,
+        "b": 0
+      },
+      "play_color":{
+        "r": 255,
+        "g": 203,
+        "b": 0
+      },
+      "super_white_button":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "matching_color":{
+        "r": 239,
+        "g": 198,
+        "b": 30
+      },
+      "matching_tick_color":{
+        "r": 150,
+        "g": 150,
+        "b": 152
+      },
+      "text_start_color":{
+        "r": 118,
+        "g": 94,
+        "b": 6
+      },
+      "white_button":{
+        "r": 129,
+        "g": 129,
+        "b": 129
+      },
+      "gray_button":{
+        "r": 83,
+        "g": 83,
+        "b": 83
+      },
+      "golden_button":{
+        "r": 255,
+        "g": 182,
+        "b": 0
+      },
+      "windows_background":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "exit_button_color":{
+        "r": 219,
+        "g": 219,
+        "b": 219
+      },
+      "reconnect_button_color":{
+        "r": 231,
+        "g": 164,
+        "b": 0
+      }
+    },
+    "timers": {
+      "refresh_rate": 0.5,
+      "wait_after_killing_a_game": 10,
+      "start_delay": 20,
+      "animation_delay": 0.5,
+      "wait_for_players": 50,
+      "wait_for_plain": 300,
+      "exit_animation_delay": 1,
+      "loading_delay": 3
+    },
+    "play_button":{
+      "x": 229,
+      "y": 1336
+    },
+    "play_state":{
+      "x": 369,
+      "y": 144
+    },
+    "text":{
+      "x": 285,
+      "y": 1356
+    },
+    "exit_to_lobby":{
+      "x": 1100,
+      "y": 794
+    },
+    "error_position":{
+      "x": 683,
+      "y": 394
+    },
+    "error_ok_position":{
+      "x": 683,
+      "y": 394
+    },
+    "game_message_position":{
+      "x": 693,
+      "y": 408
+    },
+    "exit_button_position":{
+      "x": 1131,
+      "y": 761
+    },
+    "reconnect_button_position":{
+      "x": 688,
+      "y": 368
+    },
+    "servers":[
+      {
+        "title": "NA",
+        "x": 101,
+        "y": 271
+      },
+      {
+        "title": "EU",
+        "x": 108,
+        "y": 328
+      },
+      {
+        "title": "AS",
+        "x": 103,
+        "y": 386
+      },
+      {
+        "title": "OC",
+        "x": 105,
+        "y": 487
+      },
+      {
+        "title": "SA",
+        "x": 102,
+        "y": 535
+      },
+      {
+        "title": "SEA",
+        "x": 106,
+        "y": 588
+      }
+    ],
+    "modes":[
+      {
+        "title": "Squad",
+        "x": 121,
+        "y": 1008,
+        "tick":{
+          "x": 104,
+          "y": 1147
+        }
+      },
+      {
+        "title": "Squad FPP",
+        "x": 155,
+        "y": 1054,
+        "tick":{
+          "x": 110,
+          "y": 1201
+        }
+      }
+    ]
+  },
+  "1080":{
+    "color_tolerance": 15,
+    "colors":{
+      "dark_play_color":{
+        "r": 255,
+        "g": 199,
+        "b": 0
+      },
+      "play_color":{
+        "r": 255,
+        "g": 203,
+        "b": 0
+      },
+      "super_white_button":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "matching_color":{
+        "r": 239,
+        "g": 198,
+        "b": 30
+      },
+      "matching_tick_color":{
+        "r": 150,
+        "g": 150,
+        "b": 152
+      },
+      "text_start_color":{
+        "r": 118,
+        "g": 94,
+        "b": 6
+      },
+      "white_button":{
+        "r": 129,
+        "g": 129,
+        "b": 129
+      },
+      "gray_button":{
+        "r": 83,
+        "g": 83,
+        "b": 83
+      },
+      "golden_button":{
+        "r": 255,
+        "g": 182,
+        "b": 0
+      },
+      "windows_background":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "exit_button_color":{
+        "r": 219,
+        "g": 219,
+        "b": 219
+      },
+      "reconnect_button_color":{
+        "r": 231,
+        "g": 164,
+        "b": 0
+      }
+    },
+    "timers": {
+      "refresh_rate": 0.5,
+      "wait_after_killing_a_game": 10,
+      "start_delay": 20,
+      "animation_delay": 1,
+      "wait_for_players": 50,
+      "wait_for_plain": 300,
+      "exit_animation_delay": 1,
+      "loading_delay": 3
+    },
+    "play_button":{
+      "x": 171,
+      "y": 1019
+    },
+    "play_state":{
+      "x": 294,
+      "y": 109
+    },
+    "text":{
+      "x": 866,
+      "y": 494
+    },
+    "exit_to_lobby":{
+      "x": 818,
+      "y": 599
+    },
+    "error_position":{
+      "x": 960,
+      "y": 540
+    },
+    "error_ok_position":{
+      "x": 1113,
+      "y": 450
+    },
+    "game_message_position":{
+      "x": 988,
+      "y": 558
+    },
+    "exit_button_position":{
+      "x": 842,
+      "y": 571
+    },
+    "reconnect_button_position":{
+      "x":970,
+      "y": 520
+    },
+    "servers":[
+      {
+        "title": "NA",
+        "x": 72,
+        "y": 207
+      },
+      {
+        "title": "EU",
+        "x": 72,
+        "y": 246
+      },
+      {
+        "title": "AS",
+        "x": 72,
+        "y":283
+      },
+      {
+        "title": "OC",
+        "x": 72,
+        "y": 366
+      },
+      {
+        "title": "SA",
+        "x": 72,
+        "y": 405
+      },
+      {
+        "title": "SEA",
+        "x": 72,
+        "y": 445
+      }
+    ],
+    "modes":[
+      {
+        "title": "Squad",
+        "x": 102,
+        "y": 791,
+        "tick":{
+          "x": 86,
+          "y": 895
+        }
+      },
+      {
+        "title": "Squad FPP",
+        "x": 102,
+        "y": 791,
+        "tick":{
+          "x": 86,
+          "y": 895
+        }
+      }
+    ]
+  },
+  "720":{
+    "color_tolerance": 15,
+    "colors":{
+      "dark_play_color":{
+        "r": 243,
+        "g": 200,
+        "b": 66
+      },
+      "play_color":{
+        "r": 255,
+        "g": 203,
+        "b": 0
+      },
+      "super_white_button":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "matching_color":{
+        "r": 239,
+        "g": 198,
+        "b": 30
+      },
+      "matching_tick_color":{
+        "r": 150,
+        "g": 150,
+        "b": 152
+      },
+      "text_start_color":{
+        "r": 118,
+        "g": 94,
+        "b": 6
+      },
+      "white_button":{
+        "r": 129,
+        "g": 129,
+        "b": 129
+      },
+      "gray_button":{
+        "r": 83,
+        "g": 83,
+        "b": 83
+      },
+      "golden_button":{
+        "r": 255,
+        "g": 182,
+        "b": 0
+      },
+      "windows_background":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "exit_button_color":{
+        "r": 219,
+        "g": 219,
+        "b": 219
+      },
+      "reconnect_button_color":{
+        "r": 231,
+        "g": 164,
+        "b": 0
+      }
+    },
+    "timers": {
+      "refresh_rate": 0.5,
+      "wait_after_killing_a_game": 10,
+      "start_delay": 20,
+      "animation_delay": 0.5,
+      "wait_for_players": 60,
+      "wait_for_plain": 300,
+      "exit_animation_delay": 1,
+      "loading_delay": 3
+    },
+    "play_button":{
+      "x": 121,
+      "y": 722
+    },
+    "play_state":{
+      "x": 158,
+      "y": 71
+    },
+    "text":{
+      "x": 866,
+      "y": 494
+    },
+    "exit_to_lobby":{
+      "x": 581,
+      "y": 422
+    },
+    "error_position":{
+      "x": 960,
+      "y": 540
+    },
+    "error_ok_position":{
+      "x": 1113,
+      "y": 450
+    },
+    "game_message_position":{
+      "x": 988,
+      "y": 558
+    },
+    "exit_button_position":{
+      "x": 607,
+      "y": 397
+    },
+    "reconnect_button_position":{
+      "x":970,
+      "y": 520
+    },
+    "servers":[
+      {
+        "title": "NA",
+        "x": 72,
+        "y": 207
+      },
+      {
+        "title": "EU",
+        "x": 72,
+        "y": 246
+      },
+      {
+        "title": "AS",
+        "x": 72,
+        "y":283
+      },
+      {
+        "title": "OC",
+        "x": 72,
+        "y": 366
+      },
+      {
+        "title": "SA",
+        "x": 72,
+        "y": 405
+      },
+      {
+        "title": "SEA",
+        "x": 72,
+        "y": 445
+      }
+    ],
+    "modes":[
+      {
+        "title": "Squad",
+        "x": 71,
+        "y": 565,
+        "tick":{
+          "x": 183,
+          "y": 601
+        }
+      },
+      {
+        "title": "Squad FPP",
+        "x": 71,
+        "y": 565,
+        "tick":{
+          "x": 60,
+          "y": 636
+        }
+      }
+    ]
+  },
+  "w1440":{
+    "color_tolerance": 15,
+    "colors":{
+      "dark_play_color":{
+        "r": 247,
+        "g": 198,
+        "b": 20
+      },
+      "play_color":{
+        "r": 255,
+        "g": 203,
+        "b": 0
+      },
+      "super_white_button":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "matching_color":{
+        "r": 239,
+        "g": 198,
+        "b": 30
+      },
+      "matching_tick_color":{
+        "r": 150,
+        "g": 150,
+        "b": 152
+      },
+      "text_start_color":{
+        "r": 118,
+        "g": 94,
+        "b": 6
+      },
+      "white_button":{
+        "r": 129,
+        "g": 129,
+        "b": 129
+      },
+      "gray_button":{
+        "r": 83,
+        "g": 83,
+        "b": 83
+      },
+      "golden_button":{
+        "r": 255,
+        "g": 182,
+        "b": 0
+      },
+      "windows_background":{
+        "r": 255,
+        "g": 255,
+        "b": 255
+      },
+      "exit_button_color":{
+        "r": 219,
+        "g": 219,
+        "b": 219
+      },
+      "reconnect_button_color":{
+        "r": 231,
+        "g": 164,
+        "b": 0
+      }
+    },
+    "timers": {
+      "refresh_rate": 0.5,
+      "wait_after_killing_a_game": 10,
+      "start_delay": 30,
+      "animation_delay": 0.5,
+      "wait_for_players": 60,
+      "wait_for_plain": 300,
+      "exit_animation_delay": 1,
+      "loading_delay": 3
+    },
+    "play_button":{
+      "x": 172,
+      "y": 991
+    },
+    "play_state":{
+      "x": 199,
+      "y": 99
+    },
+    "text":{
+      "x": 866,
+      "y": 494
+    },
+    "exit_to_lobby":{
+      "x": 704,
+      "y": 583
+    },
+    "error_position":{
+      "x": 960,
+      "y": 540
+    },
+    "error_ok_position":{
+      "x": 1113,
+      "y": 450
+    },
+    "game_message_position":{
+      "x": 988,
+      "y": 558
+    },
+    "exit_button_position":{
+      "x": 632,
+      "y": 483
+    },
+    "reconnect_button_position":{
+      "x":970,
+      "y": 520
+    },
+    "servers":[
+      {
+        "title": "NA",
+        "x": 72,
+        "y": 207
+      },
+      {
+        "title": "EU",
+        "x": 72,
+        "y": 246
+      },
+      {
+        "title": "AS",
+        "x": 72,
+        "y":283
+      },
+      {
+        "title": "OC",
+        "x": 72,
+        "y": 366
+      },
+      {
+        "title": "SA",
+        "x": 72,
+        "y": 405
+      },
+      {
+        "title": "SEA",
+        "x": 72,
+        "y": 445
+      }
+    ],
+    "modes":[
+      {
+        "title": "Squad",
+        "x": 101,
+        "y": 773,
+        "tick":{
+          "x": 83,
+          "y": 839
+        }
+      },
+      {
+        "title": "Squad FPP",
+        "x": 101,
+        "y": 773,
+        "tick":{
+          "x": 79,
+          "y": 875
+        }
+      }
+    ]
+  }
+}
+
+
+
