@@ -1,4 +1,4 @@
-# This is for source code only
+
 
 install python 3.6 and make sure you check the box to install pip to envir variables
 
@@ -16,7 +16,7 @@ pip install pyqt5
 
 
 
-AFterwards run:
+Afterwards run: (you can run this from cmd/powershell by shift + right clicking inside of whatever folder the .py files are in)
 python botgui.py
 
 

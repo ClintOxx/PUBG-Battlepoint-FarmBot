@@ -1,16 +1,9 @@
-This bot will: 
+MAke sure you change your montior resolution to match whatever resolution you pick in the bot, otherwise it wont work correctly.
 
-*  auto jump at a random point on the plane between 40-70 seconds after the plane appears. 
-
-* auto hold down the space bar just in case you land in water and end up underwater 
-
-* It will also lay down after running and jumping. 
-
-* I added a few more configs to the bot so it supports 2560x 1440p and 2560 x1080p. I dont have the last resolution so it might not work well for 2560 x 1080p.
-
-In that case you will need to run your monitor at one of the other three supported resolutions. 
 
 Turn off any color corrections like reshade before using the bot otherwise it will not work. 
+
+The quit button finally works now lol
 
 
 
@@ -25,7 +18,7 @@ Make sure the game isnt open.
 
 MAKE SURE YOU ARE RUNNING FULLSCREEN WINDOWED WITH RESHADE TURNED OFF
 
-Discord: https://discord.gg/k8kG6yR
+Discord: https://discord.gg/vQxmu8S
 
 
 
@@ -34,12 +27,12 @@ NEED HELP? Looking for updates?
 If you run into any errors, find the bot not working correctly, or not running: 
 
 * Check the help tab in the bot
-* if that doesnt help check the discord to recieve help/updates
-* 720p might not work all of the way, its on the list of things to test
+* if that doesnt help check the faq in discord to recieve help/updates
+* if the bot is crashing, open cmd or powershell first, then run python botgui.py and let me know what error you got 
 
-BOT FAILED TO OPEN:
-* BotGUI failed to open error : Make sure the debug file is present, if it has no number inside put in the number 1.  The debug file is located in the lib folder. lib\debug.txt 
 
 TURN OFF WALLPAPER ENGINE:
 
 it conflicts with this bot and will cause it to not work correctly
+
+If you share this bot please make sure you credit me @  https://github.com/Cleeez/PUBG-Battlepoint-FarmBot

@@ -26,6 +26,8 @@ You can stick around as long as you want!
 
 # Directions for Farmer Bot
 
+* Download/clone the files here and open the zip. Follow the instructions in the requirements.txt file.
+
 * Close PUBG if you have it open before you start.
 
 * Make sure PUBG is in full screen windowed
