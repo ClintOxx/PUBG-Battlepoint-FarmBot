@@ -2,15 +2,10 @@
 Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp)
 
 
-# The new version of the bot is up, somethings might not work as expected, still testing it.
+# The bot no longer works as of April 2018. I rolled back the repo to my last commmit and I am archiving the repo since no further changes will be made. It was a fun ride and I hope everyone got a lot of BP out of it.
 
 ![alt text](https://i.imgur.com/7gAKF2m.gif "Screenshot")
 
-# Support
-
-### Support will be handled through the PUBG AFk Bot Discord located here: [Discord Link](https://discord.gg/vQxmu8S)
-
-You can stick around as long as you want!
 
 
 # Features
