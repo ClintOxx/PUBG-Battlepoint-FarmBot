@@ -4,6 +4,10 @@ Bot/script for Playerunknown Battlegrounds (PUBG) that AFK farms battlepoints(bp
 
 # The bot no longer works as of April 2018. I rolled back the repo to my last commmit and I am archiving the repo since no further changes will be made. It was a fun ride and I hope everyone got a lot of BP out of it.
 
+I plan on going back and adding doc strings/comments explaining each function/class
+
+
+
 ![alt text](https://i.imgur.com/7gAKF2m.gif "Screenshot")
 
 
